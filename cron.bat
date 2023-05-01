@@ -1,0 +1,1 @@
+"C:\Users\CC\AppData\Local\Programs\Python\Python310\python.exe" "C:\Users\CC\Desktop\Projects\pinger\main.py"
